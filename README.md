@@ -1,5 +1,8 @@
 # py_face_match
 
+![AI Generated](https://ai-percentage-pin.vercel.app/api/ai-percentage?value=25)
+![AI PRs Welcome](https://ai-percentage-pin.vercel.app/api/ai-prs?welcome=yes)
+
 A lightweight Flask API for face matching using `face_recognition`/dlib.
 
 ## What It Does
